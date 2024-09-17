@@ -172,7 +172,7 @@ DOWNLOAD_TEXT_URL = "https://t.me/rkmovieszip"
 
 # Custom Caption Under Button #
 CAPTION_BUTTON = "Get Updates"
-CAPTION_BUTTON_URL = "https://t.me/"rkmoviezip
+CAPTION_BUTTON_URL = "https://t.me/rkmoviezip"
 
 LOG_STR = "Current Cusomized Configurations are:-\n"
 LOG_STR += ("IMDB Results are enabled, Bot will be showing imdb details for you queries.\n" if IMDB else "IMBD Results are disabled.\n")
